@@ -1,0 +1,48 @@
+{
+ "toplam_kayit_temiz": 49886,
+ "m4_toplam": 4034,
+ "tarih_baslangic": "1994-09-11",
+ "tarih_bitis": "2023-07-31",
+ "en_cok_m4_iller": {
+  "VAN": 324,
+  "KAHRAMANMARAS": 289,
+  "MALATYA": 206,
+  "ELAZIG": 122,
+  "BINGOL": 103,
+  "MANISA": 101,
+  "MUGLA": 99,
+  "HATAY": 94,
+  "ADIYAMAN": 80,
+  "DENIZLI": 72
+ },
+ "m4_pay_2023": 0.168,
+ "bolge_pay_donem": {
+  "1994–2003": {
+   "Marmara": 14.0,
+   "Ege": 16.1,
+   "Akdeniz": 11.8,
+   "İç Anadolu": 8.5,
+   "Karadeniz": 16.4,
+   "Doğu Anadolu": 27.9,
+   "Güneydoğu Anadolu": 5.3
+  },
+  "2004–2013": {
+   "Marmara": 4.1,
+   "Ege": 21.3,
+   "Akdeniz": 8.6,
+   "İç Anadolu": 7.4,
+   "Karadeniz": 3.1,
+   "Doğu Anadolu": 53.2,
+   "Güneydoğu Anadolu": 2.5
+  },
+  "2014–2023": {
+   "Marmara": 6.2,
+   "Ege": 14.0,
+   "Akdeniz": 31.4,
+   "İç Anadolu": 4.2,
+   "Karadeniz": 3.1,
+   "Doğu Anadolu": 32.0,
+   "Güneydoğu Anadolu": 9.1
+  }
+ }
+}
