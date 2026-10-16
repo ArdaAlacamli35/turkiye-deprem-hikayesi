@@ -1,0 +1,271 @@
+bolge,yil,n_m3,n_m4,max_mag,medyan_derinlik,kismi_yil
+Marmara,1994,41,0,3.6,7.5,True
+Marmara,1995,110,1,4.2,9.0,False
+Marmara,1996,107,1,4.3,8.0,False
+Marmara,1997,131,3,4.1,9.0,False
+Marmara,1998,103,2,4.4,8.0,False
+Marmara,1999,508,60,7.4,9.0,False
+Marmara,2000,204,5,5.0,8.5,False
+Marmara,2001,142,3,5.0,7.0,False
+Marmara,2002,84,1,4.0,8.0,False
+Marmara,2003,144,8,4.9,9.0,False
+Marmara,2004,136,5,4.5,8.0,False
+Marmara,2005,127,3,4.3,13.0,False
+Marmara,2006,89,3,5.2,11.0,False
+Marmara,2007,107,2,4.0,7.6,False
+Marmara,2008,129,7,4.9,7.1,False
+Marmara,2009,117,2,4.4,6.1,False
+Marmara,2010,86,2,4.9,6.2,False
+Marmara,2011,54,3,4.6,6.55,False
+Marmara,2012,69,3,4.4,6.7,False
+Marmara,2013,42,3,4.3,7.1,False
+Marmara,2014,61,8,4.5,8.4,False
+Marmara,2015,51,6,4.9,7.7,False
+Marmara,2016,60,4,4.6,6.3,False
+Marmara,2017,275,30,5.4,6.7,False
+Marmara,2018,38,5,4.6,8.1,False
+Marmara,2019,66,11,5.4,7.5,False
+Marmara,2020,37,2,4.1,7.5,False
+Marmara,2021,41,3,4.2,7.2,False
+Marmara,2022,46,9,4.9,7.3,False
+Marmara,2023,29,2,4.3,8.35,True
+Ege,1994,171,5,4.5,8.0,True
+Ege,1995,858,23,6.0,7.0,False
+Ege,1996,372,9,4.5,8.0,False
+Ege,1997,281,2,4.8,8.0,False
+Ege,1998,174,2,4.6,8.5,False
+Ege,1999,309,6,5.2,9.0,False
+Ege,2000,514,4,5.8,7.0,False
+Ege,2001,193,3,4.8,8.0,False
+Ege,2002,710,30,6.1,8.0,False
+Ege,2003,343,13,5.9,8.0,False
+Ege,2004,522,22,5.5,9.0,False
+Ege,2005,734,27,5.9,13.5,False
+Ege,2006,326,9,4.5,11.3,False
+Ege,2007,433,17,5.1,7.7,False
+Ege,2008,711,11,4.8,7.3,False
+Ege,2009,515,11,5.1,5.85,False
+Ege,2010,307,5,4.7,6.5,False
+Ege,2011,655,31,5.9,5.4,False
+Ege,2012,384,35,5.1,5.8,False
+Ege,2013,153,5,4.9,7.9,False
+Ege,2014,174,13,4.6,7.8,False
+Ege,2015,148,12,4.5,7.3,False
+Ege,2016,160,15,5.0,7.7,False
+Ege,2017,292,50,5.3,7.2,False
+Ege,2018,68,3,4.3,8.3,False
+Ege,2019,218,27,5.7,6.65,False
+Ege,2020,425,46,5.6,8.3,False
+Ege,2021,72,7,5.0,7.0,False
+Ege,2022,95,5,5.0,6.8,False
+Ege,2023,63,3,4.2,7.4,True
+Akdeniz,1994,12,1,4.0,12.0,True
+Akdeniz,1995,78,6,4.5,15.0,False
+Akdeniz,1996,116,9,4.6,11.0,False
+Akdeniz,1997,90,8,5.5,9.0,False
+Akdeniz,1998,143,15,6.3,12.5,False
+Akdeniz,1999,49,6,4.5,8.5,False
+Akdeniz,2000,70,5,4.7,9.0,False
+Akdeniz,2001,81,8,5.5,11.0,False
+Akdeniz,2002,142,8,5.0,11.5,False
+Akdeniz,2003,135,5,5.5,13.5,False
+Akdeniz,2004,166,8,4.5,12.0,False
+Akdeniz,2005,179,3,4.2,16.5,False
+Akdeniz,2006,154,5,4.4,15.8,False
+Akdeniz,2007,336,17,4.9,8.9,False
+Akdeniz,2008,194,5,4.2,8.8,False
+Akdeniz,2009,194,3,5.0,7.9,False
+Akdeniz,2010,190,7,4.5,8.0,False
+Akdeniz,2011,131,5,4.5,8.8,False
+Akdeniz,2012,120,11,5.1,8.6,False
+Akdeniz,2013,67,6,4.6,7.9,False
+Akdeniz,2014,55,4,5.1,6.9,False
+Akdeniz,2015,67,9,5.4,8.55,False
+Akdeniz,2016,56,6,4.2,13.2,False
+Akdeniz,2017,46,5,4.6,9.35,False
+Akdeniz,2018,53,10,4.9,8.6,False
+Akdeniz,2019,55,4,4.6,7.9,False
+Akdeniz,2020,60,5,4.0,8.05,False
+Akdeniz,2021,53,3,4.4,7.8,False
+Akdeniz,2022,63,8,5.0,7.2,False
+Akdeniz,2023,2068,352,7.6,5.9,True
+İç Anadolu,1994,1,0,3.0,7.0,True
+İç Anadolu,1995,26,4,4.5,7.5,False
+İç Anadolu,1996,35,2,4.3,9.0,False
+İç Anadolu,1997,38,1,4.0,6.0,False
+İç Anadolu,1998,43,5,4.6,8.0,False
+İç Anadolu,1999,106,14,5.1,10.0,False
+İç Anadolu,2000,222,11,5.6,7.0,False
+İç Anadolu,2001,96,6,4.3,8.0,False
+İç Anadolu,2002,120,4,4.1,8.0,False
+İç Anadolu,2003,127,4,4.6,6.0,False
+İç Anadolu,2004,194,8,4.5,8.0,False
+İç Anadolu,2005,391,16,5.3,8.3,False
+İç Anadolu,2006,233,4,4.4,9.1,False
+İç Anadolu,2007,411,9,5.7,5.6,False
+İç Anadolu,2008,348,10,5.0,6.9,False
+İç Anadolu,2009,219,3,4.8,5.4,False
+İç Anadolu,2010,178,3,4.7,6.5,False
+İç Anadolu,2011,145,4,4.8,5.7,False
+İç Anadolu,2012,53,2,4.5,5.4,False
+İç Anadolu,2013,37,1,4.0,5.45,False
+İç Anadolu,2014,26,1,4.3,5.6,False
+İç Anadolu,2015,25,2,4.2,5.55,False
+İç Anadolu,2016,48,8,5.2,5.3,False
+İç Anadolu,2017,34,0,3.9,5.3,False
+İç Anadolu,2018,18,0,3.9,5.55,False
+İç Anadolu,2019,45,7,5.1,5.4,False
+İç Anadolu,2020,53,11,5.2,6.0,False
+İç Anadolu,2021,35,9,5.1,4.45,False
+İç Anadolu,2022,22,2,5.2,4.4,False
+İç Anadolu,2023,82,14,5.3,6.0,True
+Karadeniz,1994,1,0,3.9,25.0,True
+Karadeniz,1995,7,0,3.8,8.5,False
+Karadeniz,1996,193,25,5.6,7.0,False
+Karadeniz,1997,72,2,5.0,7.0,False
+Karadeniz,1998,32,0,3.9,7.0,False
+Karadeniz,1999,360,60,7.2,4.0,False
+Karadeniz,2000,124,4,4.8,8.0,False
+Karadeniz,2001,77,2,4.6,8.0,False
+Karadeniz,2002,78,3,4.1,7.0,False
+Karadeniz,2003,76,3,4.5,7.0,False
+Karadeniz,2004,135,3,4.6,8.0,False
+Karadeniz,2005,148,7,4.9,9.6,False
+Karadeniz,2006,108,1,4.1,9.25,False
+Karadeniz,2007,138,0,3.9,7.1,False
+Karadeniz,2008,143,6,4.5,5.75,False
+Karadeniz,2009,79,3,4.5,6.2,False
+Karadeniz,2010,81,1,4.5,5.4,False
+Karadeniz,2011,65,0,3.9,5.5,False
+Karadeniz,2012,32,0,3.6,6.25,False
+Karadeniz,2013,36,4,4.8,5.4,False
+Karadeniz,2014,41,3,4.2,5.3,False
+Karadeniz,2015,37,2,5.1,5.3,False
+Karadeniz,2016,26,2,4.7,6.25,False
+Karadeniz,2017,38,1,4.0,5.65,False
+Karadeniz,2018,36,4,4.9,5.1,False
+Karadeniz,2019,19,0,3.9,5.1,False
+Karadeniz,2020,24,4,4.2,5.35,False
+Karadeniz,2021,34,11,5.2,5.3,False
+Karadeniz,2022,40,7,6.1,5.35,False
+Karadeniz,2023,44,6,4.7,4.9,True
+Doğu Anadolu,1994,5,1,4.2,4.0,True
+Doğu Anadolu,1995,38,13,5.7,11.0,False
+Doğu Anadolu,1996,56,19,4.7,8.5,False
+Doğu Anadolu,1997,66,22,4.9,8.0,False
+Doğu Anadolu,1998,87,22,5.0,7.0,False
+Doğu Anadolu,1999,98,15,5.5,8.0,False
+Doğu Anadolu,2000,177,17,5.2,7.0,False
+Doğu Anadolu,2001,143,14,4.9,8.0,False
+Doğu Anadolu,2002,164,10,4.7,8.0,False
+Doğu Anadolu,2003,903,35,6.4,7.0,False
+Doğu Anadolu,2004,799,34,5.9,8.0,False
+Doğu Anadolu,2005,682,49,5.9,14.6,False
+Doğu Anadolu,2006,334,14,4.9,9.7,False
+Doğu Anadolu,2007,630,33,5.5,6.6,False
+Doğu Anadolu,2008,373,15,4.7,7.6,False
+Doğu Anadolu,2009,359,8,5.0,7.15,False
+Doğu Anadolu,2010,453,28,6.1,6.4,False
+Doğu Anadolu,2011,1724,188,7.2,6.0,False
+Doğu Anadolu,2012,543,43,5.0,5.65,False
+Doğu Anadolu,2013,179,21,5.1,5.4,False
+Doğu Anadolu,2014,151,12,4.4,5.5,False
+Doğu Anadolu,2015,199,20,5.5,5.1,False
+Doğu Anadolu,2016,106,24,4.8,4.95,False
+Doğu Anadolu,2017,143,14,5.1,5.1,False
+Doğu Anadolu,2018,112,14,4.6,5.6,False
+Doğu Anadolu,2019,143,24,5.3,4.9,False
+Doğu Anadolu,2020,474,89,6.7,5.3,False
+Doğu Anadolu,2021,130,24,5.3,5.75,False
+Doğu Anadolu,2022,177,30,5.3,5.2,False
+Doğu Anadolu,2023,889,163,5.8,5.8,True
+Güneydoğu Anadolu,1994,2,2,4.9,19.5,True
+Güneydoğu Anadolu,1995,3,1,5.4,7.0,False
+Güneydoğu Anadolu,1996,14,2,4.3,11.0,False
+Güneydoğu Anadolu,1997,17,3,4.3,7.0,False
+Güneydoğu Anadolu,1998,14,3,4.1,4.0,False
+Güneydoğu Anadolu,1999,28,7,4.5,10.5,False
+Güneydoğu Anadolu,2000,18,1,4.0,7.5,False
+Güneydoğu Anadolu,2001,26,4,4.5,19.0,False
+Güneydoğu Anadolu,2002,43,3,4.6,3.5,False
+Güneydoğu Anadolu,2003,55,6,4.8,8.0,False
+Güneydoğu Anadolu,2004,64,1,5.0,8.0,False
+Güneydoğu Anadolu,2005,78,0,3.8,8.15,False
+Güneydoğu Anadolu,2006,86,1,4.2,10.65,False
+Güneydoğu Anadolu,2007,65,2,5.9,7.2,False
+Güneydoğu Anadolu,2008,95,3,5.1,8.3,False
+Güneydoğu Anadolu,2009,73,0,3.8,6.4,False
+Güneydoğu Anadolu,2010,87,0,3.8,7.2,False
+Güneydoğu Anadolu,2011,66,1,4.6,6.8,False
+Güneydoğu Anadolu,2012,64,9,5.5,6.6,False
+Güneydoğu Anadolu,2013,17,3,4.7,8.35,False
+Güneydoğu Anadolu,2014,23,0,3.9,4.3,False
+Güneydoğu Anadolu,2015,20,2,4.4,6.0,False
+Güneydoğu Anadolu,2016,19,1,4.0,8.3,False
+Güneydoğu Anadolu,2017,87,10,5.7,12.9,False
+Güneydoğu Anadolu,2018,25,4,5.4,9.6,False
+Güneydoğu Anadolu,2019,13,1,4.1,7.5,False
+Güneydoğu Anadolu,2020,13,3,5.2,6.4,False
+Güneydoğu Anadolu,2021,14,1,4.0,4.5,False
+Güneydoğu Anadolu,2022,15,2,4.3,6.95,False
+Güneydoğu Anadolu,2023,447,94,7.7,6.3,True
+Deniz,1994,48,2,4.2,14.0,True
+Deniz,1995,241,18,4.9,13.0,False
+Deniz,1996,327,17,4.9,12.0,False
+Deniz,1997,263,8,4.2,9.0,False
+Deniz,1998,138,12,5.3,11.0,False
+Deniz,1999,190,15,5.0,11.0,False
+Deniz,2000,205,7,4.9,11.0,False
+Deniz,2001,196,20,5.4,12.0,False
+Deniz,2002,201,24,5.9,9.0,False
+Deniz,2003,203,20,5.7,12.0,False
+Deniz,2004,559,27,5.7,12.0,False
+Deniz,2005,1002,56,5.8,13.4,False
+Deniz,2006,446,25,5.2,14.8,False
+Deniz,2007,398,25,5.2,11.0,False
+Deniz,2008,534,38,6.4,11.7,False
+Deniz,2009,544,37,5.8,13.2,False
+Deniz,2010,517,36,5.4,12.6,False
+Deniz,2011,452,35,6.2,12.5,False
+Deniz,2012,569,62,6.0,10.6,False
+Deniz,2013,354,28,6.0,11.35,False
+Deniz,2014,362,51,5.3,11.8,False
+Deniz,2015,431,48,6.1,10.6,False
+Deniz,2016,264,34,5.4,11.1,False
+Deniz,2017,775,90,6.6,9.0,False
+Deniz,2018,307,32,5.3,10.4,False
+Deniz,2019,388,53,5.7,10.4,False
+Deniz,2020,976,136,6.9,7.9,False
+Deniz,2021,807,118,6.3,8.6,False
+Deniz,2022,263,34,6.4,9.6,False
+Deniz,2023,222,25,5.9,8.9,True
+Yurt dışı / sınır,1994,1,1,5.1,29.0,True
+Yurt dışı / sınır,1995,4,1,4.5,32.0,False
+Yurt dışı / sınır,1996,7,5,4.6,13.0,False
+Yurt dışı / sınır,1997,8,5,4.7,2.0,False
+Yurt dışı / sınır,1998,6,0,3.9,20.0,False
+Yurt dışı / sınır,1999,5,1,4.0,17.0,False
+Yurt dışı / sınır,2000,8,2,4.2,7.0,False
+Yurt dışı / sınır,2001,11,6,4.3,12.0,False
+Yurt dışı / sınır,2002,22,6,4.9,13.0,False
+Yurt dışı / sınır,2003,14,3,4.6,13.0,False
+Yurt dışı / sınır,2004,17,1,4.0,23.0,False
+Yurt dışı / sınır,2005,45,9,4.6,15.0,False
+Yurt dışı / sınır,2006,33,7,4.5,13.9,False
+Yurt dışı / sınır,2007,59,11,4.8,10.7,False
+Yurt dışı / sınır,2008,69,4,4.6,8.05,False
+Yurt dışı / sınır,2009,69,3,5.3,7.95,False
+Yurt dışı / sınır,2010,85,3,4.6,7.3,False
+Yurt dışı / sınır,2011,65,3,5.4,8.5,False
+Yurt dışı / sınır,2012,64,5,5.0,7.8,False
+Yurt dışı / sınır,2013,54,6,5.3,6.3,False
+Yurt dışı / sınır,2014,46,6,4.7,6.8,False
+Yurt dışı / sınır,2015,23,3,4.5,7.3,False
+Yurt dışı / sınır,2016,37,10,5.0,6.6,False
+Yurt dışı / sınır,2017,23,6,4.2,3.7,False
+Yurt dışı / sınır,2018,20,3,4.2,12.0,False
+Yurt dışı / sınır,2019,27,4,4.7,12.4,False
+Yurt dışı / sınır,2020,150,33,6.0,6.45,False
+Yurt dışı / sınır,2021,71,14,5.4,6.2,False
+Yurt dışı / sınır,2022,69,11,5.8,5.5,False
+Yurt dışı / sınır,2023,92,20,5.9,7.4,True
